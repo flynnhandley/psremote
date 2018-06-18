@@ -5,8 +5,7 @@ import (
 	"io"
 	"strconv"
 	"strings"
-
-	"common/psremote"
+	"githib.com/flynnhandley/psremote"
 )
 
 type HypervRemote struct {
